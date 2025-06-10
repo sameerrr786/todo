@@ -1,0 +1,11 @@
+body{
+    background-color: whitesmoke;
+    font-family: Arial, sans-serif;
+}
+h1,h4,h2,h5{
+    color: black;
+
+}
+.custom-paragraph{
+    color: white;
+}
